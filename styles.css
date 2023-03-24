@@ -1,0 +1,90 @@
+body{
+    background-color: #EDF1D6;
+    width: 1407px;
+}
+/* First page */
+.navbar{
+    background-color: #609966;
+    padding-left: 54px;
+}
+.nav-item{
+    padding-left: 31px;
+}
+li .nav-link{
+    color: black;
+}
+li .nav-link:hover{
+    color: #40513B;
+}
+h1.welcome{
+    text-align: center;
+    padding-top: 106px;
+    color: #40513B;
+}
+h2.main-text{
+    text-align: center;
+    padding-top: 106px;
+    color: #40513B;
+}
+h3.sub-text{
+    text-align: center;
+    padding-top: 81px;
+    color: #40513B;
+}
+/* About us */
+.testimonials{
+    text-align: center;
+}
+#carouselId{
+    background-color: #609966;
+    height: 522px;
+    padding-bottom: 94px;
+}
+.testimonial-1{
+    padding-bottom: 110px;
+}
+
+.container{
+    padding: 78px 0px 85px;
+}
+.container-fluid{
+    background-color: #9DC08B;
+    width: 1410px;
+    height: 87px;
+    margin-top: 222px;
+}
+/* Products Page */
+a.btn{
+    background-color: black;
+    color: white;
+}
+a.btn:hover{
+background-color: #C5B80D;
+}
+.card{
+    margin-top: 68px;
+    margin-left: 200px;
+}
+.row{
+    margin-left: 131px;
+}
+.adapter-card{
+    margin-left: 60px;
+}
+/* Contact page */
+h1.contact{
+  text-align: center;
+  padding-top: 90px;  
+}
+.submit{
+    margin-left: 650px;
+    margin-top: 50px;
+}
+/* Footer */
+.copyright{
+padding-top: 41px;
+text-align: center;
+}
+p{
+    font-size: 20pt;
+}
